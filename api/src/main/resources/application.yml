@@ -1,0 +1,9 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /api
+
+host:
+  url: localhost:8081/ms
+  path:
+    message: /getMessage
